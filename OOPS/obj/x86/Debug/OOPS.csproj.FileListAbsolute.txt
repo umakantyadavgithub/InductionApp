@@ -1,0 +1,4 @@
+C:\Dolphin\Projects\MVCTEST\OOPS\OOPS\bin\Debug\OOPS.exe
+C:\Dolphin\Projects\MVCTEST\OOPS\OOPS\bin\Debug\OOPS.pdb
+C:\Dolphin\Projects\MVCTEST\OOPS\OOPS\obj\x86\Debug\OOPS.exe
+C:\Dolphin\Projects\MVCTEST\OOPS\OOPS\obj\x86\Debug\OOPS.pdb
