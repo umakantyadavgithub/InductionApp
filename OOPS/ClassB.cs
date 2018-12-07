@@ -19,7 +19,7 @@ namespace OOPS
 
         public void Display()
         {
-            Console.WriteLine("Print B");
+            Console.WriteLine("Printed B");
         }
     }
 }
