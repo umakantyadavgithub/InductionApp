@@ -20,7 +20,7 @@ namespace OOPS
          int j = 2;
         public void Display()
         {
-            Console.WriteLine("Print A");
+            Console.WriteLine("Prints A");
         }
     }
 }
